@@ -14,7 +14,7 @@ export default function Footer() {
                 </svg>
               </span>
               <span className="font-display text-2xl font-semibold">
-                Atelier<span className="text-accent">.</span>Nova
+                Bridge<span className="text-accent">.</span>
               </span>
             </a>
             <p className="mt-6 text-ink/70 max-w-md leading-relaxed">
@@ -94,7 +94,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 pt-6 border-t border-ink/10 flex flex-wrap items-center justify-between gap-4 text-xs text-ink/55">
-          <p>© {year} Atelier Nova LLC. All rights reserved.</p>
+          <p>© {year} Bridge LLC. All rights reserved.</p>
           <div className="flex items-center gap-5">
             <a href="#" className="link-underline">Privacy</a>
             <a href="#" className="link-underline">Terms</a>

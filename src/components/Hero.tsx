@@ -44,7 +44,7 @@ export default function Hero() {
           <span className="inline-flex items-center align-middle mx-3 md:mx-5">
             <span className="relative inline-block h-[0.8em] w-[1.6em] overflow-hidden rounded-full">
               <img
-                src="https://picsum.photos/seed/atelier-hero/400/400"
+                src="https://picsum.photos/seed/bridge-hero/400/400"
                 alt=""
                 className="h-full w-full object-cover"
               />
@@ -64,7 +64,7 @@ export default function Hero() {
             transition={{ duration: 0.7, delay: 0.3 }}
             className="lg:col-span-5 text-lg md:text-xl text-ink/75 leading-relaxed max-w-xl"
           >
-            Atelier Nova is an independent multidisciplinary studio crafting
+            Bridge is an independent multidisciplinary studio crafting
             identities, websites and digital products for ambitious brands across
             fashion, hospitality, technology and culture.
           </motion.p>

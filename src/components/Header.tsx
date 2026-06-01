@@ -38,7 +38,7 @@ export default function Header() {
               </svg>
             </span>
             <span className="font-display text-xl font-semibold tracking-tight">
-              Atelier<span className="text-accent">.</span>Nova
+              Bridge<span className="text-accent">.</span>
             </span>
           </a>
 
@@ -79,7 +79,7 @@ export default function Header() {
           >
             <div className="container-x flex items-center justify-between pt-5">
               <span className="font-display text-xl font-semibold">
-                Atelier<span className="text-accent">.</span>Nova
+                Bridge<span className="text-accent">.</span>
               </span>
               <button
                 onClick={() => setOpen(false)}
@@ -115,7 +115,7 @@ export default function Header() {
                 </div>
                 <div>
                   <div className="text-cream/40 text-xs uppercase tracking-widest mb-2">Contact</div>
-                  <p>hello@ateliernova.studio<br />+1 (212) 555 0144</p>
+                  <p>hello@bridge.studio<br />+1 (212) 555 0144</p>
                 </div>
               </div>
             </div>

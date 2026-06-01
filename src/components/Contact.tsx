@@ -30,11 +30,11 @@ export default function Contact() {
             </p>
 
             <div className="mt-10 space-y-5 text-sm">
-              <a href="mailto:hello@ateliernova.studio" className="flex items-center gap-3 hover:text-accent transition">
+              <a href="mailto:hello@bridge.studio" className="flex items-center gap-3 hover:text-accent transition">
                 <span className="flex h-10 w-10 items-center justify-center rounded-full border border-cream/15">
                   <Mail className="h-4 w-4" />
                 </span>
-                hello@ateliernova.studio
+                hello@bridge.studio
               </a>
               <a href="tel:+12125550144" className="flex items-center gap-3 hover:text-accent transition">
                 <span className="flex h-10 w-10 items-center justify-center rounded-full border border-cream/15">

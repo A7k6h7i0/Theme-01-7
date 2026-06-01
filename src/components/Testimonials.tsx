@@ -5,7 +5,7 @@ import { ArrowLeft, ArrowRight, Quote } from 'lucide-react';
 const QUOTES = [
   {
     quote:
-      'Atelier Nova reframed how we talk about our entire category. Six months after launch, organic traffic is up 240% and we finally sound like the company we always wanted to be.',
+      'Bridge reframed how we talk about our entire category. Six months after launch, organic traffic is up 240% and we finally sound like the company we always wanted to be.',
     author: 'Sasha Pereira',
     role: 'CMO, Helio Energy',
     img: 'https://picsum.photos/seed/testimonial-sasha/300/300',

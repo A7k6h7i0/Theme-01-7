@@ -22,8 +22,8 @@ export default function About() {
             className="relative aspect-[4/3] rounded-3xl overflow-hidden mb-10"
           >
             <img
-              src="https://picsum.photos/seed/atelier-studio/1200/900"
-              alt="Inside the Atelier Nova studio"
+              src="https://picsum.photos/seed/bridge-studio/1200/900"
+              alt="Inside the Bridge studio"
               className="h-full w-full object-cover"
             />
             <div className="absolute bottom-4 left-4 rounded-full bg-cream/95 px-4 py-2 text-xs uppercase tracking-widest">
